@@ -1,7 +1,3 @@
-# Ignore IDE specific files and directories
-**.idea/
-**.vscode/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
